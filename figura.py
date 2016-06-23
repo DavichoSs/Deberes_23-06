@@ -1,6 +1,6 @@
 #@ALEXANDER FIGUEROA
 #PROGRAMA QUE PERMITE MOVER OBJETOS EN UNA INTERFAZ
-from Tkinter import *
+from tkinter import *
 tk = Tk()
 canvas = Canvas(tk, width=800, height=800)
 canvas.pack()
